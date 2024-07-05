@@ -32,3 +32,19 @@ Intersted in Web-development because it follows my passion with design and progr
     return activity;
   }
 ```
+## Education
+
+* Bachelor, Belarusian State University of Informatics and Radioelectronics.
+    * Faculty of computer systems and networks (Junior).
+
+## Experience
+
+Sadly, none at the moment, but hope this changes :3.
+
+## Languages 
+
+* English: Advanced **C1**
+    * Streamling English Language school 
+* Russian: Native
+* Belarusian: Native
+* Bulgarian: Native
