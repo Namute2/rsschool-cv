@@ -14,10 +14,10 @@ Intersted in Web-development because it follows my passion with design and progr
 
 ## Skills
 
-*C/C++
-*Java
-*3D-modeling
-*Git
+* C/C++
+* Java
+* 3D-modeling
+* Git
 
 ## Code example
 ```
